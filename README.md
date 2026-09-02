@@ -26,7 +26,7 @@ The repository includes implementations of:
 - `ces/` — CES simulation experiments
 - `real_data/` — Real-data analysis
 
-## Main Outputs
+## Evaluation
 
 The analysis evaluates model performance using measures including:
 
