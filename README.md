@@ -1,6 +1,6 @@
 # Sparse Bayesian Deep Learning for Stochastic Frontier Analysis
 
-This repository contains the code and data analysis for the project **Sparse Bayesian Deep Learning for Stochastic Frontier Analysis**.
+This repository contains the code and data analysis for the project Sparse Bayesian Deep Learning for Stochastic Frontier Analysis.
 
 ## Overview
 
